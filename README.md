@@ -1,9 +1,9 @@
 # Artificial_Intelligence_and_ML
 Folder for AI&amp;ML related projects.
 
-##Linear Regressor
+### Linear Regressor
 
-##Perceptron
+### Perceptron
 
-##Small neural network in C
+### Small neural network in C
 
