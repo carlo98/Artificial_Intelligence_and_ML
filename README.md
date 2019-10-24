@@ -5,5 +5,7 @@ Folder for AI&amp;ML related projects.
 
 ### Perceptron
 
+### k Nearest Neighbour
+
 ### Small neural network in C
 
