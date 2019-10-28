@@ -7,6 +7,9 @@ Linear regressor implemented in python, with mathematical proof in "LinearRegres
 ### Perceptron
 Perceptron implemented in python, with pseudocode and short algorithm explanation in "Perceptron.pdf".
 
+### Homework_AIML
+Homeworks for the course "Machine Learning & Artificial Intelligence" of Politecnico di Torino.
+
 ### k Nearest Neighbour
 Python implementation of kNN.
 
